@@ -1,2 +1,0 @@
-docker build . -t djembe-db
-docker run -p 9000:8080 djembe-db
